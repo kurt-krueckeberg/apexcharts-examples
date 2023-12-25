@@ -4,10 +4,10 @@ var options = {
          position: 'bottom'
      },
      series: [{
-         name: "Desktops",
+         name: "2018",
          data: [10, 41, 35, 51, 49, 62, 69, 91, 148]
      },{
-         name: "Other",
+         name: "2019",
          data: [30, 11, 55, 41, 69, 32, 49, 51, 128]
      }
      ],
